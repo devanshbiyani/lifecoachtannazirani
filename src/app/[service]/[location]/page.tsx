@@ -1,4 +1,4 @@
-import { services, serviceInfo, getServiceBySlug } from '../../../lib/data';
+import { services, getServiceBySlug } from '../../../lib/data';
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
 
